@@ -2,7 +2,7 @@
 
 ### Pilas y colas
 
-Se emplean <T> para hacerlo reusable. Para emplear cada una de las clases se debe implementar la interface *Identificable*
+Se emplean "< T >" para hacerlo reusable. Para emplear cada una de las clases se debe implementar la interface *Identificable*
 
 #### Links utiles
 
